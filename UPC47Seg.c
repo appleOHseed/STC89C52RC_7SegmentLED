@@ -1,7 +1,6 @@
 /*   Decimal UP Counter with Four 7-Segment Display Multiplexing
- UPC47Seg.c
-     This code is an example of multiplexed Seven Segment Displays.
-     MCU:  MCS51, 11.0592 MHz external clock, 
+ UPC47Seg.c         multiplexed Seven Segment Displays.
+     MCU:  stc89c58rd+, 11.0592 MHz external clock, 
      The common anodes of four seven segment dispalys are
      connected to P1.0, P1.1, P1.2 and P1.3, whereas the seven
      segments are driven through PORT 0 pins    */
